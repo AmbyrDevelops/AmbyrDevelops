@@ -1,9 +1,6 @@
 <!--
-**AmbyrDevelops/AmbyrDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## Hi there 👋
+✨ 
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,10 +24,24 @@ Here are some ideas to get you started:
 
 ### ✨ About Me
 
-👩‍💻 By day I'm a professional web developer for a research university. I love development work, exploring new technologies, and building things that allow me to flex my creativity and logic.  
+👩‍💻 By day, I'm a professional web developer for a research university. I love development work, exploring new technologies, and building things that let me flex my creativity and logic.
 
-🛠️ By night I work on projects using Docker, ASP.NET Core, Bash, Unity, and AI. 
-I enjoy working with the ASP.NET Core web framework so much I'm looking forward to integrating this framework into [my portfolio website](https://ambyrdevelops.github.io).  
+🛠️ By night, I work on projects using Docker, ASP.NET Core, Bash, Unity, and AI.  
+I enjoy working with the ASP.NET Core web framework and look forward to integrating it into [my portfolio website](https://ambyrdevelops.github.io).
 
 ---
 
+### 🖥️ My Web Development Tech Stacks
+
+#### 🍏 **Mac**
+<p>
+Laravel &nbsp;• PHP &nbsp;• Docker &nbsp;• Vim &nbsp;• Bash &nbsp;• MySQL  
+</p>
+
+#### 🪟 **Windows**
+<p>
+ASP.NET Core &nbsp;• C# &nbsp;• Docker &nbsp;• WSL2 &nbsp;• Bash &nbsp;• Unity &nbsp;• PostgreSQL
+</p>
+
+---
+💌 Open to remote opportunities! For job inquiries, please email me at ambyr.develops [at] gmail [dot] com.
